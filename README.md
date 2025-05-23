@@ -1,3 +1,3 @@
 # demo
 This is my first Repository.<br>
-Author - Tarushi 
+Author - Taru 
